@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  <icon>https://www.gravatar.com/avatar/6e09e9fb7a5a86364bea21f6a14f7736</icon>
+  <subtitle>xxx</subtitle>
+  <link href="https://yeyushilai.com/atom.xml" rel="self"/>
+  
+  <link href="https://yeyushilai.com/"/>
+  <updated>2020-12-30T16:25:01.791Z</updated>
+  <id>https://yeyushilai.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    <email>1101858060@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我</title>
+    <link href="https://yeyushilai.com/posts/9ff79b23/"/>
+    <id>https://yeyushilai.com/posts/9ff79b23/</id>
+    <published>2020-12-18T16:42:50.000Z</published>
+    <updated>2020-12-30T16:25:01.791Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="标签"><a href="#标签" class="headerlink" title="标签"></a>标签</h2><p>男<br>30岁<br>已婚<br>有娃<br>半路技术出家<br>程序员</p><hr><h2 id="座右铭"><a href="#座右铭" class="headerlink" title="座右铭"></a>座右铭</h2><p>多行善事，莫问前程</p><hr><h2 id="联系我"><a href="#联系我" class="headerlink" title="联系我"></a>联系我</h2><p>微信：1101858060<br>QQ  ：1101858060<br>国内邮箱：<a href="mailto:john.young@foxmail.com">john.young@foxmail.com</a><br>国际邮箱：<a href="mailto:china.john.young@gmail.com">china.john.young@gmail.com</a>  </p><hr><h2 id="关注我"><a href="#关注我" class="headerlink" title="关注我"></a>关注我</h2><p>网站<br><a href="https://www.yeyushilai.com/">https://www.yeyushilai.com</a>  </p><p>LinkedIn<br><a href="https://www.linkedin.com/in/yeyushilai">https://www.linkedin.com/in/yeyushilai</a>  </p><p>语雀<br><a href="https://www.yuque.com/yeyushilai">https://www.yuque.com/yeyushilai</a>  </p><p>知乎<br><a href="https://www.zhihu.com/people/yeyushilai">https://www.zhihu.com/people/yeyushilai</a>  </p><p>微博<br><a href="https://weibo.com/yeyushilai">https://weibo.com/yeyushilai</a>  </p><p>豆瓣<br><a href="https://www.douban.com/people/yeyushilai">https://www.douban.com/people/yeyushilai</a>  </p><p>头条<br><a href="https://www.toutiao.com/c/user/5198494467/">https://www.toutiao.com/c/user/5198494467/</a> </p><p>Twitter<br><a href="https://twitter.com/yeyushilai">https://twitter.com/yeyushilai</a>  </p><p>Facebook<br><a href="https://www.facebook.com/yeyushilai">https://www.facebook.com/yeyushilai</a>  </p><p>Tumblr<br><a href="https://www.tumblr.com/blog/yeyushilai">https://www.tumblr.com/blog/yeyushilai</a>  </p><hr><h2 id="技术交流"><a href="#技术交流" class="headerlink" title="技术交流"></a>技术交流</h2><p>GitHub<br><a href="https://github.com/yeyushilai">https://github.com/yeyushilai</a>  </p><p>ProcessOn<br><a href="https://www.processon.com/u/5e6f278be4b092510f5c44cf">https://www.processon.com/u/5e6f278be4b092510f5c44cf</a>  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;标签&quot;&gt;&lt;a href=&quot;#标签&quot; class=&quot;headerlink&quot; title=&quot;标签&quot;&gt;&lt;/a&gt;标签&lt;/h2&gt;&lt;p&gt;男&lt;br&gt;30岁&lt;br&gt;已婚&lt;br&gt;有娃&lt;br&gt;半路技术出家&lt;br&gt;程序员&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;座右铭&quot;&gt;&lt;a href=&quot;#</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于网站</title>
+    <link href="https://yeyushilai.com/posts/be3679ee/"/>
+    <id>https://yeyushilai.com/posts/be3679ee/</id>
+    <published>2020-12-18T16:30:50.000Z</published>
+    <updated>2020-12-30T16:25:01.791Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="启动时间"><a href="#启动时间" class="headerlink" title="启动时间"></a>启动时间</h2><p>2020.12.19 1:36</p><h2 id="启动地点"><a href="#启动地点" class="headerlink" title="启动地点"></a>启动地点</h2><p>中国广东省深圳市宝安区新安街道上合社区出租屋</p><h2 id="更新频率"><a href="#更新频率" class="headerlink" title="更新频率"></a>更新频率</h2><ul><li>看日常产出成果</li><li>看时间</li><li>看心情</li></ul><hr><h2 id="网站LOGO"><a href="#网站LOGO" class="headerlink" title="网站LOGO"></a>网站LOGO</h2><p> <img src="https://github.com/yeyushilai/Image/blob/main/png/yeyushilai_1200.png?raw=true"></p><h2 id="网站域名"><a href="#网站域名" class="headerlink" title="网站域名"></a>网站域名</h2><p><a href="https://yeyushilai.com/">yeyushilai.com</a></p><h2 id="搭建工具"><a href="#搭建工具" class="headerlink" title="搭建工具"></a>搭建工具</h2><p>hexo + github + 万网域名</p><h2 id="运行主机"><a href="#运行主机" class="headerlink" title="运行主机"></a>运行主机</h2><p>GitHub</p><h2 id="代码仓库"><a href="#代码仓库" class="headerlink" title="代码仓库"></a>代码仓库</h2><p><a href="https://github.com/yeyushilai/yeyushilai.github.io">https://github.com/yeyushilai/yeyushilai.github.io</a></p><h2 id="主题"><a href="#主题" class="headerlink" title="主题"></a>主题</h2><p>主题名称：Coder<br>主题链接：<a href="https://github.com/Xunzhuo/Coder">https://github.com/Xunzhuo/Coder</a>  </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;启动时间&quot;&gt;&lt;a href=&quot;#启动时间&quot; class=&quot;headerlink&quot; title=&quot;启动时间&quot;&gt;&lt;/a&gt;启动时间&lt;/h2&gt;&lt;p&gt;2020.12.19 1:36&lt;/p&gt;
+&lt;h2 id=&quot;启动地点&quot;&gt;&lt;a href=&quot;#启动地点&quot; class=&quot;heade</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
