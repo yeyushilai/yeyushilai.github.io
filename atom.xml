@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>夜雨诗来</title>
   <icon>https://www.gravatar.com/avatar/6e09e9fb7a5a86364bea21f6a14f7736</icon>
-  <subtitle>xxx</subtitle>
+  
   <link href="https://yeyushilai.com/atom.xml" rel="self"/>
   
   <link href="https://yeyushilai.com/"/>
@@ -10,7 +10,7 @@
   <id>https://yeyushilai.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>John Young</name>
     <email>1101858060@qq.com</email>
   </author>
   
