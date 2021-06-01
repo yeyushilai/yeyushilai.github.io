@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>夜雨诗来</title>
-  <icon>https://www.gravatar.com/avatar/6e09e9fb7a5a86364bea21f6a14f7736</icon>
+  <icon>https://www.gravatar.com/avatar/136162be7e6005b122b2541364b9726b</icon>
   
   <link href="https://yeyushilai.com/atom.xml" rel="self"/>
   
@@ -11,7 +11,7 @@
   
   <author>
     <name>John Young</name>
-    <email>1101858060@qq.com</email>
+    <email>john.young@foxmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
