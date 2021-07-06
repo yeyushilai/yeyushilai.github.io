@@ -6,7 +6,7 @@
   <link href="https://yeyushilai.com/atom.xml" rel="self"/>
   
   <link href="https://yeyushilai.com/"/>
-  <updated>2021-07-06T14:53:09.288Z</updated>
+  <updated>2021-07-06T15:12:47.559Z</updated>
   <id>https://yeyushilai.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>同一子网通讯流程（以A向C发送数据流程为例）</title>
+    <title>同一子网通讯流程</title>
     <link href="https://yeyushilai.com/posts/e3f96043/"/>
     <id>https://yeyushilai.com/posts/e3f96043/</id>
     <published>2021-07-06T14:16:37.000Z</published>
-    <updated>2021-07-06T14:53:09.288Z</updated>
+    <updated>2021-07-06T15:12:47.559Z</updated>
     
-    <content type="html"><![CDATA[<br><h5 id="网络拓扑图"><a href="#网络拓扑图" class="headerlink" title="网络拓扑图"></a>网络拓扑图</h5><p> <img src="https://github.com/yeyushilai/Image/blob/main/png/network_topology.png?raw=true"></p><br><h5 id="A向C发送数据流程图"><a href="#A向C发送数据流程图" class="headerlink" title="A向C发送数据流程图"></a>A向C发送数据流程图</h5><iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:724px; height:625px;" src="https://www.processon.com/embed/60e460ce5653bb46e90e8546"></iframe><br><h5 id="示意图片"><a href="#示意图片" class="headerlink" title="示意图片"></a>示意图片</h5><p><a href="http://assets.processon.com/chart_image/60e460ce5653bb46e90e8549.png">http://assets.processon.com/chart_image/60e460ce5653bb46e90e8549.png</a></p><h5 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h5><p><a href="https://www.jianshu.com/p/a540c16f5b5c">https://www.jianshu.com/p/a540c16f5b5c</a></p>]]></content>
+    <content type="html"><![CDATA[<br><h5 id="网络拓扑图"><a href="#网络拓扑图" class="headerlink" title="网络拓扑图"></a>网络拓扑图</h5><p> <img src="https://github.com/yeyushilai/Image/blob/main/png/network_topology.png?raw=true"></p><br><p>使用一张图，描述同一子网内通讯的流程</p><iframe id="embed_dom" name="embed_dom" frameborder="0" style="display:block;width:724px; height:625px;" src="https://www.processon.com/embed/60e460ce5653bb46e90e8546"></iframe><br><h5 id="示意图片"><a href="#示意图片" class="headerlink" title="示意图片"></a>示意图片</h5><p><a href="http://assets.processon.com/chart_image/60e460ce5653bb46e90e8549.png">http://assets.processon.com/chart_image/60e460ce5653bb46e90e8549.png</a></p><h5 id="参考文档"><a href="#参考文档" class="headerlink" title="参考文档"></a>参考文档</h5><p><a href="https://www.jianshu.com/p/a540c16f5b5c">https://www.jianshu.com/p/a540c16f5b5c</a></p>]]></content>
     
     
       
@@ -38,7 +38,9 @@
     <category term="默认分类" scheme="https://yeyushilai.com/categories/%E9%BB%98%E8%AE%A4%E5%88%86%E7%B1%BB/"/>
     
     
-    <category term="网络,后端开发" scheme="https://yeyushilai.com/tags/%E7%BD%91%E7%BB%9C-%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="后端" scheme="https://yeyushilai.com/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="网络" scheme="https://yeyushilai.com/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
